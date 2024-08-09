@@ -59,3 +59,5 @@ file after building. For example:
 # Deploy on [Hostinger](https://hostinger.com/sarosi)
 
 Copy all the files in the root directory of your domain.
+
+Modificando el fichero para el curso de GIT del gran maestro Antonio el Mago Sarosi. Pd. No encontre el repo de prueba que se utilizo en el curso.
